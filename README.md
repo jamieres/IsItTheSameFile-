@@ -4,5 +4,4 @@ If you need know more speciic information about any MZ file use "MZ-Data-Extract
 
 It require Colorama. You can download the package from https://pypi.python.org/pypi/colorama or just run the command-line pip install colorama.
 
-jamieres-[at]-gmail-[dot]-com
-@jorgemieres
+jamieres-[at]-gmail-[dot]-com  /  @jorgemieres
